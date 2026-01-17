@@ -34,7 +34,7 @@ Universiti Teknologi Malaysia (2024 – Present)
 | 2 | **PC Assemble (Lab)** | Hands-on lab on assembling computer hardware. | [View](PC%20assemble.jpeg) |
 | 3 | **Design Thinking** | Low-fidelity prototype and poster. | [View](Poster%20design%20thinking.pdf) |
 | 4 | **Tic-Tac-Toe Project** | Group project: C++ game source code. | [Download Code](TicTacToeV3-master.zip) |
-| 5 | **Network Infrastructure** | LAN and WAN connections task. | [View](Network.docx) |
+| 5 | **Network Infrastructure** | LAN and WAN connections task. | [View](SECR1213%20Network%20Communications%20-%20Project%20Network%20Design%20Report.pdf) |
 | 6 | **Database Project** | Database design project (Phase 1). | [View](Database%20Phase%201.pdf) |
 
 ---
