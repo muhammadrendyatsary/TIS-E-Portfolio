@@ -6,7 +6,6 @@
 ## 👤 About Me
 **Name:** Muhammad Rendy Atsary  
 **Student ID:** A24CS9003 
-**Section:** 09  
 **University:** Universiti Teknologi Malaysia (UTM)
 
 ### Summary
