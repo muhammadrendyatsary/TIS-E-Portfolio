@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 **Name:** Muhammad Rendy Atsary  
-**Student ID:** A24CS9003 
+**Student ID:** A24CS9003  
 **University:** Universiti Teknologi Malaysia (UTM)
 
 ### Summary
@@ -20,10 +20,10 @@ Universiti Teknologi Malaysia (2024 – Present)
 ---
 
 ## 🛠 Skills
-* **Programming:** C++
-* **Tools:** GitHub, Microsoft Office, Canva
-* **Languages:** English, Bahasa Melayu, Bahasa Indonesia.
-* **Soft Skills:** Teamwork, Problem Solving, Design Thinking
+- **Programming:** C++  
+- **Tools:** GitHub, Microsoft Office, Canva  
+- **Languages:** English, Bahasa Melayu, Bahasa Indonesia  
+- **Soft Skills:** Teamwork, Problem Solving, Design Thinking  
 
 ---
 
@@ -31,36 +31,56 @@ Universiti Teknologi Malaysia (2024 – Present)
 
 | No | Assignment | Description | Link |
 |:-:|------------|-------------|------|
-| 1 | **Industry Talk / Visit** | Report and reflection on industrial visit. | [View](Industrial%20Report.pdf) |
-| 2 | **PC Assemble (Lab)** | Hands-on lab on assembling computer hardware. | [View](PC%20assemble.jpeg) |
-| 3 | **Design Thinking** | Low-fidelity prototype and poster. | [View](Poster%20design%20thinking.pdf) |
-| 4 | **Tic-Tac-Toe Project** | Group project: C++ game source code. | [Download Code](TicTacToeV3-master.zip) |
-| 5 | **Network Infrastructure** | LAN and WAN connections task. | [View](https://github.com/muhammadrendyatsary/TIS-E-Portfolio/blob/main/SECR1213%20Network%20Communications%20-%20Project%20%20Network%20Design%20Report.pdf) |
-| 6 | **Database Project** | Database design project (Phase 1). | [View](Database%20Phase%201.pdf) |
+| 1 | **Industry Talk / Visit (Report)** | Report and reflection on industrial visit. | [View](Industrial%20Report.pdf) |
+| 2 | **Industry Visit (Newsletter)** | Newsletter for industrial visit (Assignment 4). | [View](TIS%20Assignment4%20-%20Newslwtter.pdf) |
+| 3 | **Assignment 2 (PDF)** | Coursework document for Assignment 2. | [View](TIS%20SEC09%20G3%20Assignment%202.pdf) |
+| 4 | **PC Assemble (Lab)** | Hands-on lab on assembling computer hardware. | [View](PC%20assemble.jpeg) |
+| 5 | **Design Thinking** | Low-fidelity prototype and poster. | [View](Poster%20design%20thinking.pdf) |
+| 6 | **Tic-Tac-Toe Project** | Group project: C++ game source code. | [Download Code](TicTacToeV3-master.zip) |
+| 7 | **Network Infrastructure** | LAN and WAN connections task. | [View](https://github.com/muhammadrendyatsary/TIS-E-Portfolio/blob/main/SECR1213%20Network%20Communications%20-%20Project%20%20Network%20Design%20Report.pdf) |
+| 8 | **Database Project** | Database design project (Phase 1). | [View](Database%20Phase%201.pdf) |
 
 ---
 
 ## 📝 Reflections
 
-### 1. Industry Talk / Visit
+### 1. Industry Talk / Visit (Report)
 **What I gained:**  
-During the industrial visit, I realized that future developers are expected to evolve into system architects rather than only focusing on writing code. The speaker highlighted the importance of understanding how different technologies and components work together in a system.
+During the industrial visit, I realized that future developers are expected to evolve into system architects rather than only focusing on writing code. The session highlighted the importance of understanding how different technologies and components work together within a system.
 
 **Improvement:**  
 The session could be improved by allowing more time for interaction and questions with the speaker.
 
 ---
 
-### 2. PC Assemble
+### 2. Industry Visit (Newsletter)
+**What I gained:**  
+Creating the newsletter helped me summarize key points from the visit clearly and present information in a structured and easy-to-read format.
+
+**Improvement:**  
+I can improve the newsletter by adding more visuals/data (if available) and making the layout more consistent.
+
+---
+
+### 3. Assignment 2 (PDF)
+**What I gained:**  
+This assignment strengthened my understanding of the topic and improved my ability to organize coursework into a proper report format.
+
+**Improvement:**  
+Next time, I will start earlier so I have more time to review and improve the quality.
+
+---
+
+### 4. PC Assemble
 **What I gained:**  
 I learned to identify the main components of a computer and how to safely assemble hardware such as the motherboard, CPU, RAM, and power supply.
 
 **Improvement:**  
-More hands-on time, especially for cable management, would improve learning.
+More hands-on time, especially for cable management, would improve the learning experience.
 
 ---
 
-### 3. Design Thinking
+### 5. Design Thinking
 **What I gained:**  
 I learned how to apply the design thinking process to solve problems and collaborate with my group to create a low-fidelity prototype and poster.
 
@@ -69,7 +89,7 @@ Better task distribution within the group would improve efficiency.
 
 ---
 
-### 4. Tic-Tac-Toe Project
+### 6. Tic-Tac-Toe Project
 **What I gained:**  
 I improved my understanding of C++ logic and teamwork skills through explaining the game flow during the presentation.
 
@@ -78,18 +98,18 @@ The project could be improved by implementing a graphical user interface.
 
 ---
 
-### 5. Network Infrastructure
+### 7. Network Infrastructure
 **What I gained:**  
-I learned the differences between LAN and WAN connections and how network infrastructure supports device communication.
+I learned the differences between LAN and WAN connections and how network infrastructure supports communication between devices.
 
 **Improvement:**  
 More real-world examples would help strengthen understanding.
 
 ---
 
-### 6. Database Project
+### 8. Database Project
 **What I gained:**  
-I learned basic database design concepts such as ERD, table relationships, and normalization.
+I learned basic database design concepts such as ERD creation, table relationships, and normalization.
 
 **Improvement:**  
 Using real datasets would make the learning experience more practical.
@@ -97,4 +117,4 @@ Using real datasets would make the learning experience more practical.
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/rendy-atsary-4024a0337
+- **LinkedIn:** https://www.linkedin.com/in/rendy-atsary-4024a0337
